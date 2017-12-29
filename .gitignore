@@ -28,3 +28,6 @@ node_modules/
 *.sln
 debug.log
 npm-debug.log
+
+song.txt
+album.jpg
